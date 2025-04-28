@@ -1,1 +1,7 @@
 this is my first git file. use for practice
+
+
+
+oh_git: this line is left out for conflicts !!!
+
+this is commit on main branch

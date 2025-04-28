@@ -1,1 +1,5 @@
 this is my first git file. use for practice
+
+this is bugfix, a branch in the original main branch
+
+this line is left for conflicts: !!!

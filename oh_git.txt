@@ -1,7 +1,8 @@
 this is my first git file. use for practice
 
+this is commit on main branch
 
-
+this line is left for conflicts: !!!
 oh_git: this line is left out for conflicts !!!
 
-this is commit on main branch
+this is bugfix, a branch in the original main branch
